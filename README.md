@@ -23,7 +23,13 @@
 </div>
 
 
+<div align="center">
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorkem&layout=compact)
+  
+  ![Dorkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorkem&show_icons=true&theme=transparent)
+
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
