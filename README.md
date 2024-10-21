@@ -21,15 +21,26 @@
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" />
   <img src ="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" />
 </div>
+<br><br>
+
+
 
 
 <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorkem&layout=compact)
-  
+  <br><br>
   ![Dorkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorkem&show_icons=true&theme=transparent)
 
 </div>
+
+<br>
+<h3 align="center">👑 Award 👑</h3>
+<div align="center">
+  2024.09.29 9oormhtonUniv 연합해커톤 최우수상
+</div>
+
+<br><br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
