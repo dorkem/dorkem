@@ -57,7 +57,7 @@
   </a>
   <a href="mailto:chlwogur1000@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/chlwogur1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/cj_jo_k/">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
