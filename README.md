@@ -45,7 +45,7 @@
 <br>
 <h3 align="center">👑 Award 👑</h3>
 <div align="center">
-  2024.09.29 9oormhtonUniv 연합해커톤 최우수상
+  2024.09.29 9oormthonUNIV 연합해커톤 최우수상
 </div>
 
 <br><br>
