@@ -68,8 +68,6 @@
 <h3 align="center">🏆 수상 및 참가 인증서</h3>
 <table>
   <tr>
-    <td><img src="[images/cert1.png](https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f)" width="300"></td>
-    <td><img src="images/cert2.png" width="300"></td>
-    <td><img src="images/cert3.png" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f" width="300"></td>
   </tr>
 </table>
