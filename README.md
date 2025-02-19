@@ -63,3 +63,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
+
+<br>
+<h3 align="center">🏆 수상 및 참가 인증서</h3>
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f)" width="300">
+</p>
