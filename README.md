@@ -65,11 +65,25 @@
 </div>
 
 <br>
-<h3 align="center">🏆 수상 및 참가 인증서</h3>
+<h3 align="center">🏆 수료증 및 참가 인증서</h3>
 <table align="center">
+  <tr>
+    <th colspan="3" align="center">수료증</th>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f" width="300">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th colspan="3" align="center">참가 확인서</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e3f8b4e8-9ec3-4473-8901-314b180e7adf" width="300">
     </td>
   </tr>
 </table>
