@@ -66,8 +66,11 @@
 
 <br>
 <h3 align="center">🏆 수상 및 참가 인증서</h3>
-<table>
+<table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f" width="300"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e2065df1-dba0-49f4-9f2d-a7391f70422f" width="300">
+    </td>
   </tr>
 </table>
+
