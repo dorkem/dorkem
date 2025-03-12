@@ -38,7 +38,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorkem&layout=compact)
   <br><br>
-  ![Dorkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorkem&show_icons=true&theme=dark&count_private=true&token=${{ secrets.MY_GITHUB_STATS_TOKEN }})
+  ![Dorkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorkem&show_icons=true&theme=dark&count_private=true})
 
 </div>
 
