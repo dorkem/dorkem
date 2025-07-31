@@ -76,7 +76,11 @@
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/bc9238ee-2e92-4305-b0fe-a9b4834d6cac" width="300">
-    </td>  
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a36973af-5d5d-4b6e-84c7-c157c22185af" width="300">
+    </td>
+
   </tr>
 </table>
 
