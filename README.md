@@ -97,11 +97,24 @@
 
 <table align="center">
   <tr>
-    <th colspan="3" align="center">❄️Snowflake Badge</th>
+    <th colspan="2" align="center">❄️ Snowflake Badge</th>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://images.credential.net/zi70gbiv_1765169133796_badge.png" width="300">
+    </td>
+    <td align="center">
+      <img src="https://images.credential.net/embed/zi70gbiv_1765169133796.png" width="300">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://images.credential.net/r2g1ldwe_1765954561612_badge.png" width="300">
+    </td>
+    <td align="center">
+      <img src="https://pdf.ms.credential.net/v2/certificate/image?env=production&credential=r2g1ldwe&variant=medium" width="300">
     </td>
   </tr>
 </table>
