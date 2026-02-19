@@ -36,9 +36,9 @@
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorkem&layout=compact)
+  ![Top Langs](https://github-readme-stats-teal-nine-14.vercel.app/api/top-langs/?username=dorkem&layout=compact)
   <br><br>
-  ![Dorkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorkem&show_icons=true&theme=dark&count_private=true)
+  ![Dorkem's GitHub stats](https://github-readme-stats-teal-nine-14.vercel.app/api?username=dorkem&show_icons=true&theme=dark&count_private=true)
 
 </div>
 
